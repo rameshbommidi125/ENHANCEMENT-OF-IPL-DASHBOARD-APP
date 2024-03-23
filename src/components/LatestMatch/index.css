@@ -1,5 +1,4 @@
 /* Write your CSS here */
-/* Write your CSS here */
 .latest-match-container {
   margin-top: 24px;
 }
@@ -7,8 +6,8 @@
 .latest-match-heading {
   color: #ffffff;
   font-family: 'Bree Serif';
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 16px;
+  display: block;
 }
 
 .latest-match-card {
